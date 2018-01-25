@@ -111,6 +111,8 @@ h1,h2,h3,h4,h5,h6{
     margin: 5px 0 10px 0;
     text-transform: uppercase;
     letter-spacing: 5px;
+    font-weight: 300;
+
 }
 
 .infoContent .block h3 a {
@@ -148,8 +150,8 @@ h1,h2,h3,h4,h5,h6{
 .btn:hover{
     transform: scale(1.2);
     letter-spacing: 3px;
-    background-color: #D74932;
-    color: white;
+    background-color: white;
+    color: blue;
 }
 .fa:hover{
     transition: 0.3s;
