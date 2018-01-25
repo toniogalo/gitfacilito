@@ -255,6 +255,16 @@ footer ul li a:hover{
     color: #FF5722 !important;
 }
 
+.btn{
+	padding: 10px 20px;
+	border-radius: 5px;
+	border: yellow;
+	background-color: green;
+	color: black;
+	margin: 10px 0;
+	display: inline-block;
+
+}
 /*Animación*/
 @keyframes float {
     50% {
